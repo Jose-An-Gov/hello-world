@@ -16,3 +16,5 @@ I also want to see how to make different commits and put them in the same pull r
 I am going to try and do a second commit for the same pull request.
 
 Third commit but leaving the previous branch.
+
+Prueba para pasar de una rama directamente a master en el PR, pero en la revisión primero pasar por las otras ramas.
